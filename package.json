@@ -1,0 +1,21 @@
+{
+  "name": "mysql-js",
+  "version": "1.0.0",
+  "description": "Our first time connecting to mysql via javascript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "l"
+  },
+  "keywords": [
+    "mysql",
+    "javascript",
+    "node",
+    "basics"
+  ],
+  "author": "Macken Francois",
+  "license": "MIT",
+  "dependencies": {
+    "mysql2": "^3.0.1"
+  }
+}
